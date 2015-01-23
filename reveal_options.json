@@ -1,6 +1,6 @@
 {
-    "theme":"md2reveal/css/one_moz.css",
-    "height": 900, 
+    "theme":"solarized.css",
+    "height": 700, 
     "history": "true", 
     "margin": 0.05, 
     "maxScale": 1.2, 
