@@ -1,5 +1,5 @@
 ## You have a BA in Linguistics?
-# [Now what?](http://ckhoppe.github.io/Georgetown-talk/)Now what?
+# [Now what?](http://ckhoppe.github.io/Georgetown-talk/)
 
 #### Cara Hoppe
 
